@@ -23,6 +23,8 @@
 		<relativePath/>
 	</parent>
 
+
+
 	<!-- 依赖版本管理 -->
 	<!-- spring-cloud版本可以去 https://start.spring.io 根据springBoot自己查看 -->
 	<properties>
